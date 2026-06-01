@@ -5,6 +5,24 @@ __pycache__/
 
 # C extensions
 *.so
+# Terraform state
+*.tfstate
+*.tfstate.*
+
+# Terraform cache
+.terraform/
+
+# Crash logs
+crash.log
+
+# Override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Variable files
+*.tfvars
 
 # Distribution / packaging
 .Python
