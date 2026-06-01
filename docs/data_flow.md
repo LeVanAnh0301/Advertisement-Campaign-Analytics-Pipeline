@@ -6,6 +6,8 @@
 
 A campaign dataset is uploaded to the raw data bucket.
 
+Ref: https://www.kaggle.com/datasets/ziya07/advertising-campaign-dataset
+
 Example:
 
 ```text
